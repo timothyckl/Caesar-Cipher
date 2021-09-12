@@ -1,6 +1,6 @@
 from encoder import Encoder
 
-file = 'unicode_basic_latin.txt'
+file = 'unicode_basic_latin.txt' # You can replace the text file with whatever you want
 char_list = open(file, 'r', encoding='utf-8')
 letters = []
 
