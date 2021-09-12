@@ -15,7 +15,7 @@ encoder = Encoder(letters)  # remember to add list
 def menu():
     while True:
         print(f"\n{'='*40}")
-        print("\tTrES Encryption Program")
+        print("\ttimtoms Encryption Program")
         print(f"{'='*40}")
         print("\n1) Encrypt text")
         print("2) Decrypt text")
