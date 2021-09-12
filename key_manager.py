@@ -1,7 +1,7 @@
 import json
 from os import listdir
 
-KEY_DIR = "PATH TO KEY DIRECTORY"
+KEY_DIR = "PATH TO KEY DIRECTORY HERE"
 
 
 def write_key(file_name, key):
