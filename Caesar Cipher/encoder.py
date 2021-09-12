@@ -43,21 +43,3 @@ class Encoder:
             dec_msg += reverse_key[i]
 
         return dec_msg
-
-
-# Usage example
-# file = 'C:/Users/Timothy Chia/Desktop/Projects/Cipher/unicode basic latin.txt'
-# char_list = open(file, 'r', encoding='utf-8')
-# letters = []
-
-# for i in char_list.read():
-#     letters.append(i)
-
-# char_list.close()
-
-# encoder = Encoder(letters)
-# msg = input('Enter message: ')
-# enc_msg = encoder.encrypt(msg)
-# print(f"Encrypted: {enc_msg[0]}")
-# print(f"Shift: {enc_msg[1]}")
-# print(f"Decrypted: {encoder.decrypt(enc_msg[0])}")
