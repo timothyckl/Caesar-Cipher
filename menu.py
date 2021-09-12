@@ -1,4 +1,4 @@
-from encoder import Encoder
+from cipher import Encoder
 
 file = 'PATH TO CHARACTER LIST TEXT FILE HERE'
 char_list = open(file, 'r', encoding='utf-8')
