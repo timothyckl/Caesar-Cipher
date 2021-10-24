@@ -1,2 +1,3 @@
 # Caesar-Cipher
-ooga booga testing shift ciphers!!!!!1!1🐐🐐🐐🐐🐐🐐
+ooga booga 🐐🐐🐐🐐🐐🐐
+A text-based caesar cipher enryption program.
